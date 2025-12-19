@@ -1,0 +1,7 @@
+| Table        | Type de bruit                                                                             |
+| ------------ | ----------------------------------------------------------------------------------------- |
+| CLIENT       | Emails manquants (`None`), numéros de téléphone invalides, noms avec caractères spéciaux  |
+| FOYER        | `revenu_mensuel_estime` négatif ou trop élevé ponctuellement, `nombre_enfants` incohérent |
+| COMPTE       | `solde_courant` négatif (au-delà de l’autorisation de découvert), `devise` erronée        |
+| TRANSACTIONS | Montants négatifs incorrects, dates futures, sens incohérent (DEBIT/CREDIT erroné)        |
+| SCORING      | Valeurs en dehors de 300–850, dates mal alignées                                          |

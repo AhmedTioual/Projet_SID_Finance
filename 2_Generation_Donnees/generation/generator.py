@@ -52,7 +52,7 @@ foyers = []
 for i in range(1, nb_foyers+1):
     date_debut = fake.date_between(start_date='-5y', end_date='-3y')
     date_fin = date_debut + timedelta(days=random.randint(365, 3*365))
-    foyers.append({
+    foyer = {
         'id_foyer': i,
         'nom_foyer': f"Foyer_{i}",
         'type_foyer': random.choice(['célibataire', 'couple', 'famille']),
@@ -61,7 +61,13 @@ for i in range(1, nb_foyers+1):
         'revenu_mensuel_estime': random.randint(1000, 8000),
         'date_debut': date_debut,
         'date_fin': date_fin
-    })
+    }
+    # bruit volontaire
+    if random.random() < 0.05:
+        foyer['revenu_mensuel_estime'] *= random.choice([-1, 10])
+    if random.random() < 0.03:
+        foyer['nombre_enfants'] = random.randint(10, 20)
+    foyers.append(foyer)
 df_foyers = pd.DataFrame(foyers)
 df_foyers.to_csv(f"{output_dir}Foyers.csv", index=False)
 
@@ -70,7 +76,7 @@ clients = []
 for i in range(1, nb_clients+1):
     foyer = random.choice(df_foyers['id_foyer'])
     conseiller = random.choice(df_conseillers['id_conseiller'])
-    clients.append({
+    client = {
         'id_client': i,
         'numero_client': f"C{i:04d}",
         'nom': fake.last_name(),
@@ -86,7 +92,15 @@ for i in range(1, nb_clients+1):
         'statut_client': random.choice(['actif', 'inactif']),
         'id_foyer': foyer,
         'id_conseiller': conseiller
-    })
+    }
+    # bruit volontaire
+    if random.random() < 0.05:
+        client['email'] = None
+    if random.random() < 0.05:
+        client['telephone'] = "0000"
+    if random.random() < 0.03:
+        client['nom'] += "!"
+    clients.append(client)
 df_clients = pd.DataFrame(clients)
 df_clients.to_csv(f"{output_dir}Clients.csv", index=False)
 
@@ -108,7 +122,7 @@ for i in range(1, nb_comptes+1):
     agence = random.choice(df_agences['id_agence'])
     date_ouverture = fake.date_between(start_date='-5y', end_date='-1y')
     date_cloture = date_ouverture + timedelta(days=random.randint(365, 3*365))
-    comptes.append({
+    compte = {
         'id_compte': i,
         'numero_compte': f"AC{i:06d}",
         'date_ouverture': date_ouverture,
@@ -120,14 +134,20 @@ for i in range(1, nb_comptes+1):
         'id_produit': produit,
         'id_agence': agence,
         'id_foyer': foyer
-    })
+    }
+    # bruit volontaire
+    if random.random() < 0.03:
+        compte['solde_courant'] *= -1
+    if random.random() < 0.02:
+        compte['devise'] = 'XXX'
+    comptes.append(compte)
 df_comptes = pd.DataFrame(comptes)
 df_comptes.to_csv(f"{output_dir}Comptes.csv", index=False)
 
 # ------------------ CLIENT_COMPTE (N-N) ------------------
 client_compte = []
 for compte in df_comptes['id_compte']:
-    nb_clients_compte = random.randint(1, 2)  # comptes joints possibles
+    nb_clients_compte = random.randint(1, 2)
     clients_for_account = random.sample(list(df_clients['id_client']), nb_clients_compte)
     for cid in clients_for_account:
         date_debut = fake.date_between(start_date='-5y', end_date='today')
@@ -147,11 +167,14 @@ scorings = []
 for compte in df_comptes['id_compte']:
     for m in range(mois_historique):
         date_score = datetime.today() - pd.DateOffset(months=m)
+        val = random.randint(300, 850)
+        if random.random() < 0.02:
+            val = random.randint(100, 1000)  # bruit scoring
         scorings.append({
             'id_scoring': len(scorings)+1,
             'type_score': 'compte',
             'date_scoring': date_score.date(),
-            'valeur_score': random.randint(300, 850),
+            'valeur_score': val,
             'commentaire': fake.sentence(),
             'id_compte': compte,
             'id_foyer': None
@@ -159,11 +182,14 @@ for compte in df_comptes['id_compte']:
 for foyer in df_foyers['id_foyer']:
     for m in range(mois_historique):
         date_score = datetime.today() - pd.DateOffset(months=m)
+        val = random.randint(300, 850)
+        if random.random() < 0.02:
+            val = random.randint(100, 1000)
         scorings.append({
             'id_scoring': len(scorings)+1,
             'type_score': 'foyer',
             'date_scoring': date_score.date(),
-            'valeur_score': random.randint(300, 850),
+            'valeur_score': val,
             'commentaire': fake.sentence(),
             'id_compte': None,
             'id_foyer': foyer
@@ -176,11 +202,18 @@ transactions = []
 for compte in df_comptes['id_compte']:
     for m in range(mois_historique):
         date_base = datetime.today() - pd.DateOffset(months=m)
-        nb_tx = random.randint(3, 5)  # 3-5 transactions par mois
+        nb_tx = random.randint(3, 5)
         for t in range(nb_tx):
             date_op = date_base - timedelta(days=random.randint(0,27))
             montant = random.randint(10, 2000)
             sens = random.choice(['DEBIT', 'CREDIT'])
+            # bruit volontaire
+            if random.random() < 0.03:
+                montant *= -1
+            if random.random() < 0.02:
+                date_op = datetime.today() + timedelta(days=random.randint(1,30))
+            if random.random() < 0.02:
+                sens = 'UNKNOWN'
             transactions.append({
                 'id_operation': len(transactions)+1,
                 'reference': f"OP{len(transactions)+1:06d}",
@@ -196,4 +229,4 @@ for compte in df_comptes['id_compte']:
 df_transactions = pd.DataFrame(transactions)
 df_transactions.to_csv(f"{output_dir}Transactions.csv", index=False)
 
-print("Génération terminée : toutes les 9 tables CSV créées dans", output_dir)
+print("Génération terminée : toutes les 9 tables CSV créées avec bruit dans", output_dir)
