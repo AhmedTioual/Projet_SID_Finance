@@ -39,7 +39,6 @@ else:
     print("Unknown mode. Use 'dev' or 'test'.")
     sys.exit(1)
 
-
 print(f"Generating {mode.upper()} dataset...")
 
 # ------------------ AGENCES ------------------
