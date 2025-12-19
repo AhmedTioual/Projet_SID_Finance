@@ -3,20 +3,44 @@ import pandas as pd
 import random
 from faker import Faker
 from datetime import datetime, timedelta
+import sys
 
 fake = Faker('fr_FR')
 Faker.seed(42)
 random.seed(42)
 
-# --- Paramètres généraux ---
-nb_clients = 100
-nb_foyers = 50
-nb_produits = 5
-nb_comptes = 120
-nb_agences = 10
-nb_conseillers = 20
-mois_historique = 36  # 3 ans
-output_dir = "../output/"
+# ------------------ Paramètres généraux par type ------------------
+# Default = dev
+mode = 'dev'
+if len(sys.argv) > 1:
+    mode = sys.argv[1].lower()  # python generator.py dev or python generator.py test
+
+if mode == 'test':
+    nb_clients = 100
+    nb_foyers = 50
+    nb_produits = 5
+    nb_comptes = 120
+    nb_agences = 10
+    nb_conseillers = 20
+    mois_historique = 36  # 3 years
+    output_dir = "output/test/"
+
+elif mode == 'dev':
+    nb_clients = 20
+    nb_foyers = 10
+    nb_produits = 3
+    nb_comptes = 30
+    nb_agences = 5
+    nb_conseillers = 8
+    mois_historique = 6  # 6 months for faster dev
+    output_dir = "output/dev/"
+
+else:
+    print("Unknown mode. Use 'dev' or 'test'.")
+    sys.exit(1)
+
+
+print(f"Generating {mode.upper()} dataset...")
 
 # ------------------ AGENCES ------------------
 agences = []

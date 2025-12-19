@@ -1,0 +1,11 @@
+id_agence,nom_agence,adresse,ville,code_postal,telephone
+1,Agence_1,"chemin de Moulin
+28242 Saint Jeannenec",Saint Éric,27338,+33 (0)3 55 86 37 94
+2,Agence_2,"55, rue Ledoux
+43204 Sainte Étienneboeuf",Texier,33926,+33 (0)6 34 81 61 84
+3,Agence_3,"11, rue de Leleu
+37181 Roussel",Lopesdan,81954,0310553419
+4,Agence_4,"82, chemin Lucie Lagarde
+71324 Lecoq",Saint Valentine,05924,0547413953
+5,Agence_5,"52, rue Vallet
+71651 Letellier",Gilbert-sur-Guillon,51470,+33 2 62 87 10 12

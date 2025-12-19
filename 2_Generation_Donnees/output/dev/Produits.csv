@@ -1,0 +1,6 @@
+id_produit,code_produit,libelle_produit,categorie,taux_interet,plafond
+1,P01,Courant,compte,0.28,17346
+2,P02,Épargne,compte,1.71,7724
+3,P03,Jeune,compte,0.87,12886
+4,P04,Entreprise,compte,0.51,11570
+5,P05,Premium,compte,1.81,7697

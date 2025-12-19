@@ -1,0 +1,720 @@
+id_operation,reference,libelle_operation,date_operation,date_comptable,montant,sens,type_operation,statut_operation,id_compte
+1,OP000001,Lendemain oublier immobile chair.,2025-12-17,2025-12-17,268,CREDIT,retrait,en attente,1
+2,OP000002,Mien.,2025-12-05,2025-12-05,1045,CREDIT,versement,valide,1
+3,OP000003,Selon fidèle six.,2025-12-06,2025-12-06,934,DEBIT,versement,valide,1
+4,OP000004,Espérer rose silencieux.,2025-11-06,2025-11-06,650,CREDIT,virement,valide,1
+5,OP000005,Chaise ensuite trop coup.,2025-10-24,2025-10-24,184,DEBIT,virement,valide,1
+6,OP000006,Compte fort ensemble.,2025-11-01,2025-11-01,1969,CREDIT,retrait,valide,1
+7,OP000007,Verser répandre entretenir.,2025-11-10,2025-11-10,1239,CREDIT,versement,en attente,1
+8,OP000008,Rose fonction.,2025-09-22,2025-09-22,231,CREDIT,versement,valide,1
+9,OP000009,Tout couleur.,2025-09-24,2025-09-24,888,DEBIT,virement,valide,1
+10,OP000010,Condition regard allumer.,2025-10-11,2025-10-11,1449,CREDIT,virement,en attente,1
+11,OP000011,Très créer retour.,2025-09-15,2025-09-15,1527,DEBIT,retrait,en attente,1
+12,OP000012,Route retenir.,2025-09-14,2025-09-14,767,CREDIT,virement,valide,1
+13,OP000013,Plein chance éloigner.,2025-09-15,2025-09-15,332,DEBIT,retrait,en attente,1
+14,OP000014,Perte prier.,2025-08-11,2025-08-11,451,DEBIT,versement,en attente,1
+15,OP000015,Autrement voix jeter.,2025-08-03,2025-08-03,1376,CREDIT,virement,valide,1
+16,OP000016,Marcher tombe solitude.,2025-08-10,2025-08-10,1946,DEBIT,virement,valide,1
+17,OP000017,Mêler respect expérience.,2025-08-04,2025-08-04,1539,CREDIT,versement,en attente,1
+18,OP000018,Notre tenter brusquement.,2025-07-07,2025-07-07,1774,DEBIT,retrait,en attente,1
+19,OP000019,Personne examiner.,2025-07-01,2025-07-01,838,CREDIT,virement,en attente,1
+20,OP000020,Approcher vivant plutôt fortune.,2025-06-23,2025-06-23,1422,CREDIT,versement,en attente,1
+21,OP000021,Verre gros acheter.,2025-12-17,2025-12-17,820,CREDIT,virement,valide,2
+22,OP000022,D'Autres qui.,2025-12-03,2025-12-03,1054,DEBIT,versement,valide,2
+23,OP000023,Nature moyen hiver.,2025-12-12,2025-12-12,220,DEBIT,versement,valide,2
+24,OP000024,Inconnu poète posséder.,2025-12-14,2025-12-14,1958,CREDIT,versement,en attente,2
+25,OP000025,Étendue ainsi.,2025-11-22,2025-11-22,1998,CREDIT,retrait,en attente,2
+26,OP000026,Écraser tirer.,2025-11-18,2025-11-18,730,DEBIT,retrait,valide,2
+27,OP000027,Campagne traverser.,2025-10-30,2025-10-30,1779,DEBIT,versement,valide,2
+28,OP000028,Étrange été.,2025-11-05,2025-11-05,1871,DEBIT,virement,en attente,2
+29,OP000029,Madame étrange.,2025-11-16,2025-11-16,1670,CREDIT,virement,valide,2
+30,OP000030,Haut poussière.,2025-10-28,2025-10-28,906,CREDIT,retrait,en attente,2
+31,OP000031,Auquel appuyer prêt.,2025-09-25,2025-09-25,702,DEBIT,virement,en attente,2
+32,OP000032,Jeune.,2025-10-10,2025-10-10,526,DEBIT,retrait,en attente,2
+33,OP000033,Plusieurs colère.,2025-09-29,2025-09-29,1440,CREDIT,versement,en attente,2
+34,OP000034,Lumière mesure.,2025-09-29,2025-09-29,1631,CREDIT,versement,valide,2
+35,OP000035,Ministre valoir dégager.,2025-08-29,2025-08-29,-877,CREDIT,retrait,en attente,2
+36,OP000036,Parfois consentir personne.,2025-09-13,2025-09-13,473,DEBIT,versement,valide,2
+37,OP000037,Amener oreille cou.,2025-08-29,2025-08-29,699,DEBIT,versement,valide,2
+38,OP000038,Gris absolument cruel douleur.,2025-08-27,2025-08-27,906,DEBIT,retrait,en attente,2
+39,OP000039,Musique retrouver.,2025-08-26,2025-08-26,1543,CREDIT,retrait,valide,2
+40,OP000040,Considérer entretenir immense.,2025-07-29,2025-07-29,1949,CREDIT,versement,en attente,2
+41,OP000041,Plan jusque.,2025-08-14,2025-08-14,1682,DEBIT,versement,en attente,2
+42,OP000042,Nouveau oncle noir.,2025-07-23,2025-07-23,770,DEBIT,virement,valide,2
+43,OP000043,Étroit immobile commun.,2025-08-11,2025-08-11,930,DEBIT,retrait,en attente,2
+44,OP000044,Tête nombre.,2025-07-06,2025-07-06,119,CREDIT,retrait,valide,2
+45,OP000045,Enfance demi.,2025-07-19,2025-07-19,662,DEBIT,virement,valide,2
+46,OP000046,Confondre pourquoi.,2025-07-10,2025-07-10,1888,CREDIT,retrait,valide,2
+47,OP000047,Fixer nouveau moyen.,2025-12-19,2025-12-19,534,DEBIT,versement,en attente,3
+48,OP000048,Conseil partir pourquoi.,2025-12-16,2025-12-16,1599,CREDIT,versement,en attente,3
+49,OP000049,Mieux jusque.,2026-01-05,2026-01-05,237,CREDIT,versement,valide,3
+50,OP000050,Considérer selon.,2025-11-06,2025-11-06,13,CREDIT,virement,en attente,3
+51,OP000051,Art exister accuser chaise.,2025-11-17,2025-11-17,1962,DEBIT,retrait,en attente,3
+52,OP000052,Véritable lire léger.,2025-10-27,2025-10-27,43,CREDIT,versement,valide,3
+53,OP000053,Gauche secrétaire juger.,2025-10-26,2025-10-26,1201,CREDIT,versement,valide,3
+54,OP000054,Moitié retenir.,2025-10-05,2025-10-05,1434,CREDIT,retrait,valide,3
+55,OP000055,Éclat dormir.,2025-10-10,2025-10-10,422,DEBIT,retrait,en attente,3
+56,OP000056,Eau rentrer moitié.,2025-09-23,2025-09-23,1122,CREDIT,retrait,valide,3
+57,OP000057,Mentir calme calme.,2025-09-22,2025-09-22,1352,CREDIT,retrait,en attente,3
+58,OP000058,Saint faire saint.,2025-10-07,2025-10-07,704,DEBIT,versement,en attente,3
+59,OP000059,Ouvert.,2025-08-27,2025-08-27,879,DEBIT,retrait,en attente,3
+60,OP000060,Dame grâce qualité.,2025-09-16,2025-09-16,173,CREDIT,retrait,valide,3
+61,OP000061,Effort y.,2025-08-28,2025-08-28,919,CREDIT,versement,en attente,3
+62,OP000062,Direction six bataille.,2025-07-30,2025-07-30,1630,DEBIT,versement,valide,3
+63,OP000063,Remettre demander.,2025-08-19,2025-08-19,302,CREDIT,retrait,en attente,3
+64,OP000064,Poser simplement on grand.,2025-08-07,2025-08-07,1954,DEBIT,retrait,en attente,3
+65,OP000065,Chance coûter coûter attacher.,2025-07-26,2025-07-26,167,DEBIT,virement,valide,3
+66,OP000066,Marchand nouveau comme.,2025-06-26,2025-06-26,391,CREDIT,retrait,en attente,3
+67,OP000067,Eaux disposer.,2025-07-13,2025-07-13,1263,CREDIT,virement,valide,3
+68,OP000068,Voici poète bientôt.,2025-07-05,2025-07-05,363,CREDIT,retrait,en attente,3
+69,OP000069,Tête volonté soit.,2025-12-17,2025-12-17,1136,CREDIT,versement,valide,4
+70,OP000070,Préférer cerveau.,2025-11-24,2025-11-24,750,DEBIT,retrait,valide,4
+71,OP000071,Prétendre santé.,2025-12-08,2025-12-08,1144,CREDIT,virement,valide,4
+72,OP000072,Jusque musique distinguer.,2025-12-10,2025-12-10,825,CREDIT,virement,valide,4
+73,OP000073,Fenêtre avancer rester.,2025-12-09,2025-12-09,1325,DEBIT,versement,valide,4
+74,OP000074,Franc raconter.,2025-11-06,2025-11-06,1039,DEBIT,virement,en attente,4
+75,OP000075,Il juge naturellement.,2025-10-28,2025-10-28,471,CREDIT,virement,en attente,4
+76,OP000076,Public importance.,2025-11-13,2025-11-13,1310,CREDIT,versement,valide,4
+77,OP000077,Service retenir former.,2025-10-01,2025-10-01,325,DEBIT,versement,valide,4
+78,OP000078,Saison léger entraîner.,2025-09-23,2025-09-23,1779,DEBIT,retrait,valide,4
+79,OP000079,Essuyer musique.,2025-09-25,2025-09-25,1181,CREDIT,versement,en attente,4
+80,OP000080,Seulement réserver sujet.,2025-09-29,2025-09-29,1969,CREDIT,retrait,en attente,4
+81,OP000081,Aucun.,2025-10-17,2025-10-17,1420,DEBIT,retrait,valide,4
+82,OP000082,Parce Que seconde.,2025-08-23,2025-08-23,1481,CREDIT,virement,en attente,4
+83,OP000083,Compagnon.,2025-09-03,2025-09-03,1160,DEBIT,virement,valide,4
+84,OP000084,Herbe à.,2025-09-16,2025-09-16,113,CREDIT,virement,en attente,4
+85,OP000085,Cour portier certes.,2025-09-01,2025-09-01,1486,CREDIT,retrait,en attente,4
+86,OP000086,Cinquante toute.,2025-08-04,2025-08-04,57,DEBIT,virement,en attente,4
+87,OP000087,Bête expliquer.,2025-08-18,2025-08-18,113,CREDIT,retrait,en attente,4
+88,OP000088,Faute taire.,2025-08-02,2025-08-02,26,DEBIT,retrait,en attente,4
+89,OP000089,Arrière paraître.,2025-08-18,2025-08-18,830,DEBIT,virement,en attente,4
+90,OP000090,Grave beauté.,2025-07-05,2025-07-05,1575,CREDIT,virement,valide,4
+91,OP000091,Abandonner jardin.,2025-07-07,2025-07-07,774,CREDIT,versement,en attente,4
+92,OP000092,Note lutter.,2025-07-03,2025-07-03,92,DEBIT,versement,en attente,4
+93,OP000093,Accrocher pourtant rouge.,2025-07-15,2025-07-15,1251,DEBIT,versement,en attente,4
+94,OP000094,Pourquoi jaune découvrir.,2025-07-01,2025-07-01,698,CREDIT,retrait,en attente,4
+95,OP000095,Public bonheur.,2025-12-16,2025-12-16,863,CREDIT,virement,en attente,5
+96,OP000096,Fait également fil.,2025-12-11,2025-12-11,1990,DEBIT,versement,en attente,5
+97,OP000097,Passer plusieurs.,2025-12-15,2025-12-15,1692,DEBIT,virement,en attente,5
+98,OP000098,Manger accorder.,2025-12-09,2025-12-09,867,DEBIT,versement,en attente,5
+99,OP000099,Haute profiter.,2025-11-22,2025-11-22,1747,DEBIT,versement,en attente,5
+100,OP000100,Quitter théâtre où hésiter.,2025-11-07,2025-11-07,652,DEBIT,versement,en attente,5
+101,OP000101,Bas bois.,2025-10-31,2025-10-31,1001,DEBIT,retrait,en attente,5
+102,OP000102,Nom fils.,2025-10-28,2025-10-28,434,CREDIT,versement,en attente,5
+103,OP000103,Enfermer changement doucement.,2025-11-10,2025-11-10,259,CREDIT,virement,en attente,5
+104,OP000104,Désigner objet.,2025-11-18,2025-11-18,599,DEBIT,retrait,valide,5
+105,OP000105,Droite trembler allumer séparer.,2025-09-23,2025-09-23,1113,CREDIT,versement,valide,5
+106,OP000106,Course officier.,2025-10-12,2025-10-12,113,DEBIT,versement,en attente,5
+107,OP000107,Quitter écrire.,2025-10-16,2025-10-16,-1405,DEBIT,retrait,en attente,5
+108,OP000108,Espoir.,2025-08-30,2025-08-30,418,CREDIT,virement,valide,5
+109,OP000109,Fine déposer pas.,2025-09-02,2025-09-02,1522,DEBIT,virement,valide,5
+110,OP000110,Maladie vin.,2025-08-24,2025-08-24,823,CREDIT,retrait,valide,5
+111,OP000111,Tracer certes simplement.,2025-09-19,2025-09-19,621,DEBIT,versement,en attente,5
+112,OP000112,Glace même commun.,2025-07-23,2025-07-23,1042,CREDIT,versement,en attente,5
+113,OP000113,Usage rejeter âgé.,2025-07-30,2025-07-30,-536,DEBIT,versement,valide,5
+114,OP000114,Adresser cuisine.,2025-08-14,2025-08-14,1261,CREDIT,versement,valide,5
+115,OP000115,Troubler former.,2026-01-01,2026-01-01,987,CREDIT,retrait,en attente,5
+116,OP000116,Parent liberté.,2025-07-10,2025-07-10,1202,DEBIT,versement,valide,5
+117,OP000117,Goutte franc passé.,2025-07-05,2025-07-05,638,DEBIT,versement,en attente,5
+118,OP000118,Où douceur encore.,2025-12-16,2025-12-16,1318,CREDIT,retrait,valide,6
+119,OP000119,Titre vieux chose.,2025-12-05,2025-12-05,1541,CREDIT,versement,valide,6
+120,OP000120,Foi particulier se.,2025-11-25,2025-11-25,516,DEBIT,versement,valide,6
+121,OP000121,Encore hasard.,2025-12-18,2025-12-18,1707,DEBIT,versement,en attente,6
+122,OP000122,Assister bas.,2025-12-16,2025-12-16,1403,DEBIT,retrait,valide,6
+123,OP000123,Campagne or as.,2025-11-15,2025-11-15,1061,CREDIT,retrait,valide,6
+124,OP000124,Carte présent.,2025-11-07,2025-11-07,531,DEBIT,retrait,valide,6
+125,OP000125,Décrire.,2025-11-02,2025-11-02,133,DEBIT,virement,valide,6
+126,OP000126,Un maintenant repas.,2025-10-26,2025-10-26,1323,CREDIT,retrait,en attente,6
+127,OP000127,Combien cent.,2025-09-28,2025-09-28,1984,DEBIT,versement,en attente,6
+128,OP000128,Puis caractère.,2025-10-03,2025-10-03,270,DEBIT,retrait,en attente,6
+129,OP000129,Intéresser.,2025-10-02,2025-10-02,786,DEBIT,versement,valide,6
+130,OP000130,Dominer au prêter.,2025-08-25,2025-08-25,1362,CREDIT,virement,valide,6
+131,OP000131,Pareil lentement long.,2025-09-17,2025-09-17,216,DEBIT,virement,valide,6
+132,OP000132,Lever mon.,2025-09-07,2025-09-07,908,DEBIT,virement,en attente,6
+133,OP000133,Ci religion sujet.,2025-07-24,2025-07-24,1886,CREDIT,virement,en attente,6
+134,OP000134,Déclarer loi.,2025-08-15,2025-08-15,1362,DEBIT,versement,valide,6
+135,OP000135,Âge.,2025-07-30,2025-07-30,1400,CREDIT,versement,en attente,6
+136,OP000136,Après facile.,2025-07-09,2025-07-09,1436,CREDIT,versement,en attente,6
+137,OP000137,Conclure veiller.,2025-07-12,2025-07-12,1749,DEBIT,virement,en attente,6
+138,OP000138,Remercier.,2025-07-06,2025-07-06,1151,DEBIT,virement,en attente,6
+139,OP000139,De désigner terminer.,2025-06-22,2025-06-22,769,DEBIT,retrait,valide,6
+140,OP000140,Doigt avec faux.,2025-06-22,2025-06-22,159,DEBIT,virement,en attente,6
+141,OP000141,Plein arriver davantage.,2025-11-22,2025-11-22,1867,CREDIT,virement,valide,7
+142,OP000142,Visible unique aussitôt.,2025-11-26,2025-11-26,1554,CREDIT,retrait,valide,7
+143,OP000143,Soirée religion endormir.,2025-12-02,2025-12-02,668,CREDIT,retrait,en attente,7
+144,OP000144,Mettre accord.,2025-11-04,2025-11-04,964,DEBIT,retrait,valide,7
+145,OP000145,Éclairer répondre.,2025-11-08,2025-11-08,650,CREDIT,virement,en attente,7
+146,OP000146,Depuis fait vide vraiment.,2025-11-02,2025-11-02,1924,CREDIT,versement,valide,7
+147,OP000147,Puis mémoire.,2025-11-04,2025-11-04,1137,CREDIT,versement,en attente,7
+148,OP000148,Cheval toute.,2025-11-05,2025-11-05,354,CREDIT,versement,valide,7
+149,OP000149,Envelopper.,2025-10-18,2025-10-18,1728,DEBIT,retrait,valide,7
+150,OP000150,Étoile secrétaire sou.,2025-09-23,2025-09-23,1301,DEBIT,retrait,en attente,7
+151,OP000151,Abattre personne serrer.,2026-01-06,2026-01-06,1275,CREDIT,virement,valide,7
+152,OP000152,Bouche malheur.,2025-10-03,2025-10-03,1489,CREDIT,versement,en attente,7
+153,OP000153,Gens vendre.,2025-09-24,2025-09-24,1934,DEBIT,virement,en attente,7
+154,OP000154,Prétendre bête.,2025-09-11,2025-09-11,1638,CREDIT,virement,valide,7
+155,OP000155,Sûr lutter.,2025-09-10,2025-09-10,1410,DEBIT,virement,en attente,7
+156,OP000156,Importance quitter naturel.,2025-12-25,2025-12-25,782,CREDIT,retrait,en attente,7
+157,OP000157,Cesser rue avance.,2025-09-01,2025-09-01,1767,DEBIT,versement,en attente,7
+158,OP000158,Attirer peur certainement.,2025-08-18,2025-08-18,1902,DEBIT,versement,valide,7
+159,OP000159,Digne enfin.,2025-08-14,2025-08-14,-1912,CREDIT,versement,en attente,7
+160,OP000160,Précis pur énorme.,2025-08-17,2025-08-17,622,DEBIT,versement,en attente,7
+161,OP000161,Déjà trésor.,2025-08-07,2025-08-07,1557,DEBIT,versement,en attente,7
+162,OP000162,Renoncer neuf.,2025-07-16,2025-07-16,905,DEBIT,versement,en attente,7
+163,OP000163,Bras hôtel.,2025-06-25,2025-06-25,678,DEBIT,virement,en attente,7
+164,OP000164,Frère mari vérité.,2025-07-02,2025-07-02,1937,CREDIT,virement,en attente,7
+165,OP000165,Humide indiquer.,2025-11-27,2025-11-27,160,DEBIT,virement,en attente,8
+166,OP000166,Beaucoup rien.,2025-12-09,2025-12-09,748,DEBIT,retrait,valide,8
+167,OP000167,Salut poussière.,2025-12-15,2025-12-15,188,DEBIT,virement,valide,8
+168,OP000168,Élever.,2025-11-08,2025-11-08,1145,DEBIT,virement,en attente,8
+169,OP000169,Chemin prêt vert.,2025-11-06,2025-11-06,804,DEBIT,virement,valide,8
+170,OP000170,Loup plutôt difficile.,2025-10-29,2025-10-29,789,DEBIT,virement,valide,8
+171,OP000171,Amuser franchir.,2025-10-11,2025-10-11,872,CREDIT,virement,en attente,8
+172,OP000172,Milieu mer bien.,2025-09-30,2025-09-30,1272,UNKNOWN,retrait,en attente,8
+173,OP000173,Rêver changement.,2025-09-23,2025-09-23,1280,CREDIT,versement,valide,8
+174,OP000174,Bas.,2025-10-10,2025-10-10,666,DEBIT,retrait,en attente,8
+175,OP000175,Certainement saisir.,2025-08-28,2025-08-28,1306,CREDIT,retrait,en attente,8
+176,OP000176,Port tranquille bande.,2025-09-08,2025-09-08,243,DEBIT,versement,valide,8
+177,OP000177,Dieu rôle aider aucun.,2025-08-27,2025-08-27,955,DEBIT,retrait,en attente,8
+178,OP000178,Risquer beaux séparer.,2025-09-15,2025-09-15,1307,CREDIT,retrait,valide,8
+179,OP000179,Ce trente arrêter.,2025-09-05,2025-09-05,1234,CREDIT,versement,en attente,8
+180,OP000180,Habiller projet lentement.,2025-08-18,2025-08-18,1629,CREDIT,virement,valide,8
+181,OP000181,Poitrine commun croix.,2025-07-26,2025-07-26,518,CREDIT,versement,en attente,8
+182,OP000182,Dos homme.,2025-07-26,2025-07-26,689,CREDIT,versement,valide,8
+183,OP000183,Angoisse ouvrir.,2025-08-05,2025-08-05,776,CREDIT,virement,en attente,8
+184,OP000184,Paysan leur.,2025-08-19,2025-08-19,998,DEBIT,versement,valide,8
+185,OP000185,Jeter battre fil.,2025-07-10,2025-07-10,712,CREDIT,virement,en attente,8
+186,OP000186,Couler sourire maître.,2025-06-26,2025-06-26,1436,CREDIT,virement,valide,8
+187,OP000187,Vouloir mêler agiter fil.,2025-06-22,2025-06-22,712,DEBIT,virement,valide,8
+188,OP000188,Jeu renverser éteindre.,2025-07-02,2025-07-02,337,CREDIT,retrait,valide,8
+189,OP000189,Lien fixer condamner.,2025-11-29,2025-11-29,1356,CREDIT,retrait,en attente,9
+190,OP000190,Nouveau amener roche.,2025-12-07,2025-12-07,19,DEBIT,virement,valide,9
+191,OP000191,Assurer vol.,2025-11-24,2025-11-24,1795,DEBIT,versement,en attente,9
+192,OP000192,Exiger nerveux dehors.,2025-10-30,2025-10-30,651,CREDIT,retrait,valide,9
+193,OP000193,Bois personne.,2025-10-24,2025-10-24,1389,CREDIT,retrait,valide,9
+194,OP000194,Marche respect.,2025-11-12,2025-11-12,635,DEBIT,retrait,valide,9
+195,OP000195,Réduire trou.,2025-11-01,2025-11-01,795,CREDIT,versement,valide,9
+196,OP000196,Sentir retomber éviter.,2025-11-02,2025-11-02,351,CREDIT,versement,valide,9
+197,OP000197,Composer nord.,2025-10-19,2025-10-19,1002,DEBIT,versement,en attente,9
+198,OP000198,Tenter âme précis.,2025-10-06,2025-10-06,1412,CREDIT,virement,valide,9
+199,OP000199,Moindre moindre consulter.,2025-09-24,2025-09-24,1568,DEBIT,virement,en attente,9
+200,OP000200,Médecin complètement apercevoir.,2025-10-01,2025-10-01,1530,CREDIT,versement,en attente,9
+201,OP000201,Dehors dame.,2025-08-24,2025-08-24,1559,DEBIT,retrait,valide,9
+202,OP000202,Jaune éprouver oreille.,2025-08-27,2025-08-27,1709,DEBIT,retrait,valide,9
+203,OP000203,Étaler compte.,2025-09-05,2025-09-05,1782,DEBIT,versement,en attente,9
+204,OP000204,Attaquer chef près.,2025-08-23,2025-08-23,1465,CREDIT,virement,valide,9
+205,OP000205,Remercier sentir.,2025-09-01,2025-09-01,728,CREDIT,retrait,en attente,9
+206,OP000206,Veiller faveur trente.,2025-08-11,2025-08-11,1960,DEBIT,virement,en attente,9
+207,OP000207,Nez essayer entourer.,2025-07-23,2025-07-23,1353,DEBIT,retrait,valide,9
+208,OP000208,Puis haïr.,2025-07-26,2025-07-26,1737,CREDIT,retrait,en attente,9
+209,OP000209,Pencher compagnon vêtement.,2025-08-05,2025-08-05,164,DEBIT,retrait,en attente,9
+210,OP000210,Reprendre davantage nom complètement.,2025-08-04,2025-08-04,680,DEBIT,retrait,en attente,9
+211,OP000211,Puissance écouter.,2025-06-24,2025-06-24,1104,CREDIT,retrait,en attente,9
+212,OP000212,Propre trouver.,2025-06-23,2025-06-23,590,CREDIT,retrait,valide,9
+213,OP000213,Fois vouloir verre.,2025-07-18,2025-07-18,-213,CREDIT,retrait,valide,9
+214,OP000214,Devant.,2025-12-13,2025-12-13,1420,DEBIT,retrait,valide,10
+215,OP000215,Énorme rire oncle passé.,2025-11-29,2025-11-29,748,CREDIT,virement,en attente,10
+216,OP000216,Traiter changer.,2025-11-29,2025-11-29,635,DEBIT,virement,en attente,10
+217,OP000217,Demeurer visite.,2025-12-17,2025-12-17,281,UNKNOWN,retrait,valide,10
+218,OP000218,Partout ventre.,2025-10-28,2025-10-28,280,CREDIT,virement,valide,10
+219,OP000219,Homme discussion désirer.,2025-11-09,2025-11-09,762,CREDIT,virement,valide,10
+220,OP000220,Être reprendre.,2025-11-17,2025-11-17,1096,DEBIT,virement,valide,10
+221,OP000221,Auquel.,2025-11-06,2025-11-06,1271,CREDIT,virement,en attente,10
+222,OP000222,Haut gens combat.,2025-10-06,2025-10-06,654,DEBIT,versement,en attente,10
+223,OP000223,Larme feu même.,2025-09-25,2025-09-25,1937,DEBIT,versement,valide,10
+224,OP000224,Santé résistance.,2025-09-26,2025-09-26,812,CREDIT,virement,en attente,10
+225,OP000225,Pendre porte clef.,2025-10-07,2025-10-07,240,DEBIT,virement,en attente,10
+226,OP000226,Retrouver anglais.,2025-09-15,2025-09-15,802,CREDIT,virement,valide,10
+227,OP000227,Homme.,2025-09-01,2025-09-01,148,DEBIT,retrait,en attente,10
+228,OP000228,Un autrement.,2025-08-30,2025-08-30,1469,CREDIT,versement,valide,10
+229,OP000229,Souvent claire.,2025-09-11,2025-09-11,181,CREDIT,virement,en attente,10
+230,OP000230,Mémoire surprendre.,2025-08-01,2025-08-01,1309,DEBIT,virement,valide,10
+231,OP000231,Est voici.,2025-08-12,2025-08-12,186,CREDIT,versement,valide,10
+232,OP000232,Préparer groupe perdre.,2025-08-16,2025-08-16,35,DEBIT,versement,en attente,10
+233,OP000233,Subir ci bon course.,2025-08-14,2025-08-14,771,DEBIT,virement,valide,10
+234,OP000234,Fruit mien.,2025-06-24,2025-06-24,889,CREDIT,versement,valide,10
+235,OP000235,Discussion drame demeurer.,2025-07-04,2025-07-04,942,CREDIT,virement,en attente,10
+236,OP000236,Mer.,2025-06-25,2025-06-25,220,DEBIT,virement,valide,10
+237,OP000237,Mentir justice article.,2025-07-18,2025-07-18,976,CREDIT,virement,en attente,10
+238,OP000238,Nuit.,2025-12-09,2025-12-09,518,CREDIT,versement,en attente,11
+239,OP000239,Écouter peuple.,2025-12-16,2025-12-16,1038,DEBIT,retrait,valide,11
+240,OP000240,Jeune blanc coûter pas.,2025-12-05,2025-12-05,1783,CREDIT,retrait,valide,11
+241,OP000241,Inutile camarade.,2025-11-13,2025-11-13,607,CREDIT,retrait,valide,11
+242,OP000242,Intérieur supérieur discussion.,2025-10-27,2025-10-27,1854,DEBIT,versement,en attente,11
+243,OP000243,Fixe fatiguer figure.,2026-01-10,2026-01-10,1729,DEBIT,versement,en attente,11
+244,OP000244,Hiver direction.,2025-11-16,2025-11-16,430,DEBIT,virement,en attente,11
+245,OP000245,Diriger seconde moins.,2025-10-18,2025-10-18,1896,DEBIT,retrait,en attente,11
+246,OP000246,Ramener placer.,2025-09-26,2025-09-26,183,DEBIT,versement,valide,11
+247,OP000247,Plaindre rire.,2025-10-06,2025-10-06,1366,DEBIT,retrait,en attente,11
+248,OP000248,Vide nombre midi.,2025-09-05,2025-09-05,566,DEBIT,versement,valide,11
+249,OP000249,Rouler genre mari.,2025-09-15,2025-09-15,226,DEBIT,retrait,valide,11
+250,OP000250,Mot demain égal.,2025-09-05,2025-09-05,641,CREDIT,versement,en attente,11
+251,OP000251,Tache prévoir lien.,2025-08-24,2025-08-24,1453,DEBIT,versement,valide,11
+252,OP000252,Réussir plutôt page.,2025-08-07,2025-08-07,1061,DEBIT,virement,en attente,11
+253,OP000253,Trouver hors.,2025-07-23,2025-07-23,936,DEBIT,virement,valide,11
+254,OP000254,Vie rire.,2025-08-18,2025-08-18,1710,DEBIT,versement,valide,11
+255,OP000255,Apporter avec.,2025-08-01,2025-08-01,1210,CREDIT,virement,en attente,11
+256,OP000256,Cour saint chemin.,2025-07-17,2025-07-17,1863,CREDIT,versement,en attente,11
+257,OP000257,Devoir tempête tenter auprès.,2025-06-23,2025-06-23,1493,CREDIT,retrait,valide,11
+258,OP000258,Militaire métier signe.,2025-07-14,2025-07-14,573,CREDIT,versement,valide,11
+259,OP000259,Immobile son repousser.,2025-12-10,2025-12-10,1031,CREDIT,retrait,valide,12
+260,OP000260,Noir renverser cacher cher.,2025-12-06,2025-12-06,418,DEBIT,retrait,en attente,12
+261,OP000261,Noir rayon travailler.,2025-12-04,2025-12-04,1125,CREDIT,retrait,valide,12
+262,OP000262,Moi bon.,2025-12-19,2025-12-19,-663,DEBIT,retrait,en attente,12
+263,OP000263,Sol souffrir.,2025-11-25,2025-11-25,1206,DEBIT,retrait,valide,12
+264,OP000264,Discours père mort.,2025-11-01,2025-11-01,1743,CREDIT,virement,valide,12
+265,OP000265,Annoncer dos charger.,2025-11-01,2025-11-01,661,CREDIT,versement,valide,12
+266,OP000266,Point frais forcer souffrance.,2025-11-01,2025-11-01,1952,DEBIT,versement,en attente,12
+267,OP000267,Armer inviter.,2025-10-04,2025-10-04,87,UNKNOWN,retrait,valide,12
+268,OP000268,Sûr ah.,2025-10-09,2025-10-09,1889,DEBIT,retrait,valide,12
+269,OP000269,Endormir semblable.,2025-10-19,2025-10-19,312,DEBIT,virement,en attente,12
+270,OP000270,Vie déclarer.,2025-08-29,2025-08-29,820,DEBIT,versement,en attente,12
+271,OP000271,Vieux heure.,2025-08-25,2025-08-25,1319,CREDIT,versement,en attente,12
+272,OP000272,Divers général payer.,2025-09-12,2025-09-12,1373,DEBIT,virement,valide,12
+273,OP000273,Herbe tenir.,2025-08-28,2025-08-28,1952,CREDIT,virement,en attente,12
+274,OP000274,Que recevoir soit.,2025-08-25,2025-08-25,1991,DEBIT,retrait,valide,12
+275,OP000275,Lui cinquante.,2025-08-08,2025-08-08,664,DEBIT,versement,en attente,12
+276,OP000276,Presque français.,2025-08-05,2025-08-05,33,CREDIT,virement,valide,12
+277,OP000277,Souffrance amener contre.,2025-08-18,2025-08-18,800,CREDIT,retrait,en attente,12
+278,OP000278,Seconde désirer.,2025-07-02,2025-07-02,778,DEBIT,versement,valide,12
+279,OP000279,Arracher expliquer couler.,2025-07-14,2025-07-14,934,DEBIT,retrait,valide,12
+280,OP000280,Saint lire partie.,2025-07-17,2025-07-17,710,DEBIT,virement,en attente,12
+281,OP000281,Point depuis.,2025-06-30,2025-06-30,1266,CREDIT,versement,en attente,12
+282,OP000282,Notre compte sombre.,2025-12-18,2025-12-18,217,CREDIT,versement,en attente,13
+283,OP000283,Mesure étendre secours dieu.,2025-11-28,2025-11-28,586,CREDIT,retrait,valide,13
+284,OP000284,Droite finir.,2025-12-18,2025-12-18,748,DEBIT,versement,en attente,13
+285,OP000285,Si renoncer.,2025-11-16,2025-11-16,62,DEBIT,virement,en attente,13
+286,OP000286,Signer paysan.,2025-10-25,2025-10-25,824,CREDIT,versement,en attente,13
+287,OP000287,Divers fruit.,2025-11-14,2025-11-14,769,CREDIT,retrait,en attente,13
+288,OP000288,Vague.,2025-09-23,2025-09-23,560,DEBIT,versement,en attente,13
+289,OP000289,Pièce.,2025-09-24,2025-09-24,1118,CREDIT,retrait,en attente,13
+290,OP000290,Paysan objet.,2025-10-02,2025-10-02,1417,CREDIT,retrait,valide,13
+291,OP000291,Enfant.,2025-09-01,2025-09-01,1854,DEBIT,virement,valide,13
+292,OP000292,Oh très.,2025-08-25,2025-08-25,404,DEBIT,virement,valide,13
+293,OP000293,Goutte ferme.,2025-08-24,2025-08-24,1228,CREDIT,virement,en attente,13
+294,OP000294,Important dame elle.,2025-09-02,2025-09-02,823,CREDIT,virement,en attente,13
+295,OP000295,Saison forme bonheur.,2025-09-16,2025-09-16,858,DEBIT,virement,valide,13
+296,OP000296,Yeux vers secrétaire.,2025-07-26,2025-07-26,216,CREDIT,retrait,en attente,13
+297,OP000297,Paysan oiseau égal.,2025-07-30,2025-07-30,1004,CREDIT,versement,en attente,13
+298,OP000298,Jeunesse esprit.,2025-08-18,2025-08-18,820,CREDIT,retrait,en attente,13
+299,OP000299,Passé situation.,2025-08-19,2025-08-19,701,CREDIT,versement,valide,13
+300,OP000300,Personnage un.,2025-07-23,2025-07-23,476,DEBIT,retrait,en attente,13
+301,OP000301,Consulter l'une.,2025-07-06,2025-07-06,1248,DEBIT,versement,en attente,13
+302,OP000302,Surveiller révolution.,2025-06-25,2025-06-25,1067,CREDIT,retrait,en attente,13
+303,OP000303,Français ensemble changement ajouter.,2025-07-15,2025-07-15,1608,DEBIT,virement,valide,13
+304,OP000304,Vraiment différent genou.,2025-07-18,2025-07-18,944,DEBIT,retrait,en attente,13
+305,OP000305,Quand nécessaire vous.,2025-06-29,2025-06-29,1900,DEBIT,retrait,valide,13
+306,OP000306,Été preuve.,2025-12-01,2025-12-01,1139,CREDIT,versement,valide,14
+307,OP000307,Pas jamais traverser.,2025-12-10,2025-12-10,66,CREDIT,virement,valide,14
+308,OP000308,Livre sentiment sein.,2025-11-29,2025-11-29,471,DEBIT,versement,valide,14
+309,OP000309,Conduire blanc cependant.,2025-12-04,2025-12-04,1876,UNKNOWN,retrait,en attente,14
+310,OP000310,Promener mine.,2025-10-28,2025-10-28,1326,CREDIT,retrait,valide,14
+311,OP000311,Trop surveiller.,2026-01-10,2026-01-10,628,CREDIT,retrait,en attente,14
+312,OP000312,D'Autres davantage.,2025-11-10,2025-11-10,1411,DEBIT,retrait,en attente,14
+313,OP000313,Geste souvenir.,2025-11-11,2025-11-11,1353,CREDIT,virement,en attente,14
+314,OP000314,Difficile école seuil.,2025-10-29,2025-10-29,664,DEBIT,retrait,en attente,14
+315,OP000315,Art particulier nature.,2025-10-07,2025-10-07,1518,DEBIT,retrait,valide,14
+316,OP000316,Autour subir lèvre sol.,2025-09-28,2025-09-28,1104,CREDIT,virement,valide,14
+317,OP000317,Malheur gagner somme.,2025-10-10,2025-10-10,209,CREDIT,virement,en attente,14
+318,OP000318,Chaleur couleur.,2025-09-29,2025-09-29,192,DEBIT,retrait,en attente,14
+319,OP000319,Voile suivant voilà.,2025-09-01,2025-09-01,612,CREDIT,versement,valide,14
+320,OP000320,Engager prière.,2025-09-04,2025-09-04,1831,DEBIT,retrait,en attente,14
+321,OP000321,Journée parmi.,2025-09-18,2025-09-18,1793,DEBIT,versement,en attente,14
+322,OP000322,Enfant assister.,2025-09-15,2025-09-15,657,DEBIT,virement,en attente,14
+323,OP000323,Donner réclamer comme.,2025-08-18,2025-08-18,19,CREDIT,virement,en attente,14
+324,OP000324,Jusque reculer.,2025-07-25,2025-07-25,1573,DEBIT,retrait,en attente,14
+325,OP000325,Certain habitant.,2025-08-07,2025-08-07,19,DEBIT,retrait,valide,14
+326,OP000326,Français verre fille.,2025-08-19,2025-08-19,1395,DEBIT,retrait,en attente,14
+327,OP000327,Quitter.,2025-08-15,2025-08-15,220,CREDIT,virement,en attente,14
+328,OP000328,Public tuer.,2025-07-05,2025-07-05,1500,CREDIT,retrait,en attente,14
+329,OP000329,Rare manier agent.,2025-06-25,2025-06-25,395,DEBIT,virement,valide,14
+330,OP000330,Soudain.,2025-06-26,2025-06-26,278,DEBIT,retrait,valide,14
+331,OP000331,Début sou.,2025-07-07,2025-07-07,1805,CREDIT,virement,valide,14
+332,OP000332,Cercle fille.,2025-11-23,2025-11-23,50,DEBIT,versement,en attente,15
+333,OP000333,Empire aucun après troubler.,2025-12-04,2025-12-04,1447,UNKNOWN,retrait,valide,15
+334,OP000334,Proposer nouveau essuyer.,2025-11-28,2025-11-28,1075,CREDIT,virement,valide,15
+335,OP000335,Été table.,2025-12-10,2025-12-10,243,DEBIT,versement,valide,15
+336,OP000336,Raconter colline tapis.,2025-12-08,2025-12-08,1450,CREDIT,virement,en attente,15
+337,OP000337,Agir de vivre.,2025-11-12,2025-11-12,15,DEBIT,versement,en attente,15
+338,OP000338,Puissance nombre.,2025-11-15,2025-11-15,1954,DEBIT,retrait,valide,15
+339,OP000339,Ce prêt.,2025-11-05,2025-11-05,616,CREDIT,virement,en attente,15
+340,OP000340,Maître.,2025-11-08,2025-11-08,1651,CREDIT,virement,valide,15
+341,OP000341,Rejoindre papier.,2025-09-28,2025-09-28,1335,DEBIT,retrait,valide,15
+342,OP000342,Vous peuple perdre agiter.,2025-10-08,2025-10-08,1679,CREDIT,retrait,en attente,15
+343,OP000343,Général fidèle.,2025-09-27,2025-09-27,1752,CREDIT,virement,valide,15
+344,OP000344,Détail premier course.,2025-08-27,2025-08-27,130,DEBIT,versement,en attente,15
+345,OP000345,Accrocher glace bon machine.,2025-09-14,2025-09-14,1261,CREDIT,versement,valide,15
+346,OP000346,Oeil chaleur sauvage branche.,2025-09-04,2025-09-04,1894,CREDIT,retrait,en attente,15
+347,OP000347,Caractère calme briller coucher.,2025-09-19,2025-09-19,1452,DEBIT,versement,valide,15
+348,OP000348,Rencontre sauver.,2025-09-06,2025-09-06,1365,DEBIT,virement,valide,15
+349,OP000349,Existence fuir.,2025-07-30,2025-07-30,1923,DEBIT,virement,valide,15
+350,OP000350,Apparence lentement.,2025-07-26,2025-07-26,1016,CREDIT,virement,en attente,15
+351,OP000351,Portier jeune.,2025-08-07,2025-08-07,1683,DEBIT,virement,en attente,15
+352,OP000352,Absence planche.,2026-01-01,2026-01-01,253,CREDIT,versement,valide,15
+353,OP000353,Sec plaire.,2025-06-23,2025-06-23,196,CREDIT,retrait,en attente,15
+354,OP000354,Tu rendre.,2025-07-08,2025-07-08,1700,DEBIT,versement,en attente,15
+355,OP000355,Profond bon.,2025-06-27,2025-06-27,1355,CREDIT,virement,valide,15
+356,OP000356,Pauvre imaginer.,2025-12-08,2025-12-08,1709,CREDIT,virement,en attente,16
+357,OP000357,Discours arracher.,2025-12-15,2025-12-15,1693,CREDIT,retrait,valide,16
+358,OP000358,Son seul.,2025-12-05,2025-12-05,1698,DEBIT,versement,valide,16
+359,OP000359,Rêve enfance quarante.,2025-11-25,2025-11-25,1836,CREDIT,retrait,valide,16
+360,OP000360,Seuil succès.,2025-10-27,2025-10-27,109,CREDIT,virement,valide,16
+361,OP000361,Conversation.,2025-10-27,2025-10-27,1679,DEBIT,retrait,en attente,16
+362,OP000362,Envoyer sujet.,2025-11-06,2025-11-06,1257,DEBIT,retrait,valide,16
+363,OP000363,Distinguer puis fauteuil été.,2025-11-15,2025-11-15,855,CREDIT,versement,valide,16
+364,OP000364,Fou venir.,2025-11-13,2025-11-13,439,CREDIT,versement,valide,16
+365,OP000365,Sec position.,2025-10-02,2025-10-02,1431,CREDIT,versement,en attente,16
+366,OP000366,Réunir peine retomber.,2025-09-28,2025-09-28,1541,UNKNOWN,virement,valide,16
+367,OP000367,Cerveau prononcer.,2025-10-07,2025-10-07,307,DEBIT,virement,en attente,16
+368,OP000368,Bouche temps.,2025-09-28,2025-09-28,523,DEBIT,versement,valide,16
+369,OP000369,Réveiller poche confiance.,2025-10-08,2025-10-08,1677,CREDIT,virement,en attente,16
+370,OP000370,Rendre oncle social.,2025-09-03,2025-09-03,1616,CREDIT,retrait,en attente,16
+371,OP000371,Joindre juge.,2025-09-02,2025-09-02,120,DEBIT,retrait,valide,16
+372,OP000372,Hauteur attitude père.,2025-08-30,2025-08-30,1453,CREDIT,versement,valide,16
+373,OP000373,Voilà.,2025-08-05,2025-08-05,373,DEBIT,retrait,valide,16
+374,OP000374,Regard mur moitié.,2025-08-06,2025-08-06,581,CREDIT,retrait,en attente,16
+375,OP000375,Lutte portier ouvert.,2025-07-28,2025-07-28,1929,DEBIT,versement,en attente,16
+376,OP000376,Peuple désir éternel.,2025-08-04,2025-08-04,1627,CREDIT,virement,valide,16
+377,OP000377,Chemise salut suite.,2025-07-14,2025-07-14,861,CREDIT,retrait,en attente,16
+378,OP000378,Article paupière ci serrer.,2025-07-08,2025-07-08,611,DEBIT,versement,valide,16
+379,OP000379,Solitude avance là.,2025-07-16,2025-07-16,1379,CREDIT,versement,valide,16
+380,OP000380,Époque douleur.,2025-07-18,2025-07-18,1407,CREDIT,retrait,en attente,16
+381,OP000381,D'Autres paupière français.,2025-07-19,2025-07-19,1876,CREDIT,retrait,valide,16
+382,OP000382,Avenir hier.,2025-12-03,2025-12-03,178,DEBIT,virement,valide,17
+383,OP000383,Horizon signe honneur.,2025-12-13,2025-12-13,1382,DEBIT,versement,en attente,17
+384,OP000384,Visage question.,2025-11-29,2025-11-29,1682,DEBIT,retrait,valide,17
+385,OP000385,Charger.,2025-12-17,2025-12-17,160,DEBIT,virement,en attente,17
+386,OP000386,Fusil mille à.,2026-01-10,2026-01-10,933,CREDIT,virement,valide,17
+387,OP000387,Respecter ventre.,2025-10-26,2025-10-26,1537,DEBIT,virement,en attente,17
+388,OP000388,Succès moi.,2025-10-25,2025-10-25,1414,CREDIT,retrait,en attente,17
+389,OP000389,Tuer face article.,2025-10-24,2025-10-24,1363,DEBIT,retrait,en attente,17
+390,OP000390,Sens erreur.,2026-01-16,2026-01-16,620,CREDIT,virement,valide,17
+391,OP000391,Obéir prince face ici.,2025-10-19,2025-10-19,1182,CREDIT,versement,en attente,17
+392,OP000392,Recevoir d'autres.,2025-10-13,2025-10-13,855,DEBIT,virement,valide,17
+393,OP000393,Examiner parti réunir.,2025-10-14,2025-10-14,1384,DEBIT,retrait,valide,17
+394,OP000394,Main premier après.,2025-10-10,2025-10-10,1385,DEBIT,retrait,en attente,17
+395,OP000395,Large sac.,2025-08-29,2025-08-29,1352,DEBIT,retrait,en attente,17
+396,OP000396,Briser oncle construire.,2025-09-05,2025-09-05,682,CREDIT,retrait,en attente,17
+397,OP000397,Cuisine saison contenter.,2025-09-14,2025-09-14,19,CREDIT,retrait,en attente,17
+398,OP000398,Bruit garde tôt.,2025-08-15,2025-08-15,1401,CREDIT,retrait,en attente,17
+399,OP000399,Ce suffire immense nom.,2025-08-02,2025-08-02,232,DEBIT,virement,valide,17
+400,OP000400,Chacun leur manger.,2025-08-11,2025-08-11,1512,DEBIT,versement,valide,17
+401,OP000401,Remettre.,2025-07-24,2025-07-24,1201,CREDIT,retrait,en attente,17
+402,OP000402,Secret joindre loi.,2025-06-25,2025-06-25,314,CREDIT,retrait,valide,17
+403,OP000403,Poste compagnie.,2025-07-05,2025-07-05,1036,DEBIT,versement,valide,17
+404,OP000404,Bouche personne.,2025-06-25,2025-06-25,1062,DEBIT,versement,valide,17
+405,OP000405,Source ligne fin violent.,2025-06-26,2025-06-26,1509,CREDIT,virement,valide,17
+406,OP000406,Donner ventre.,2025-07-11,2025-07-11,766,DEBIT,retrait,en attente,17
+407,OP000407,Idée cesse.,2025-12-05,2025-12-05,1815,DEBIT,versement,en attente,18
+408,OP000408,Observer soutenir lors.,2025-11-23,2025-11-23,1529,CREDIT,retrait,en attente,18
+409,OP000409,Simplement prétendre traîner.,2025-12-01,2025-12-01,1348,DEBIT,versement,en attente,18
+410,OP000410,Curiosité créer prévoir port.,2025-12-08,2025-12-08,1683,CREDIT,versement,valide,18
+411,OP000411,Visible pendant.,2025-11-14,2025-11-14,481,DEBIT,virement,en attente,18
+412,OP000412,Lieu poursuivre.,2025-10-31,2025-10-31,1479,DEBIT,virement,en attente,18
+413,OP000413,Presser réclamer moi.,2025-10-29,2025-10-29,990,CREDIT,virement,valide,18
+414,OP000414,Morceau placer général quitter.,2025-11-18,2025-11-18,271,DEBIT,virement,valide,18
+415,OP000415,Du séparer rire.,2025-10-11,2025-10-11,1899,DEBIT,versement,valide,18
+416,OP000416,Briller fier arriver.,2025-09-26,2025-09-26,1500,CREDIT,retrait,en attente,18
+417,OP000417,Couleur raconter.,2025-10-14,2025-10-14,459,CREDIT,virement,en attente,18
+418,OP000418,Vite police.,2025-08-27,2025-08-27,1414,CREDIT,retrait,en attente,18
+419,OP000419,Secrétaire posséder.,2025-09-15,2025-09-15,232,DEBIT,retrait,valide,18
+420,OP000420,Courir me.,2025-08-31,2025-08-31,207,DEBIT,versement,valide,18
+421,OP000421,Rompre bonheur soldat.,2025-08-04,2025-08-04,1360,UNKNOWN,versement,en attente,18
+422,OP000422,Soin quel miser.,2025-08-03,2025-08-03,871,CREDIT,retrait,en attente,18
+423,OP000423,Long retirer.,2025-08-08,2025-08-08,1216,DEBIT,virement,en attente,18
+424,OP000424,Pourquoi arbre.,2025-07-02,2025-07-02,846,CREDIT,versement,valide,18
+425,OP000425,Fixe vague vif.,2025-07-03,2025-07-03,24,CREDIT,retrait,valide,18
+426,OP000426,Vers art quelque.,2025-07-15,2025-07-15,882,CREDIT,versement,en attente,18
+427,OP000427,Pain rentrer.,2025-06-28,2025-06-28,823,DEBIT,retrait,en attente,18
+428,OP000428,Sauter temps près.,2025-07-11,2025-07-11,638,CREDIT,versement,valide,18
+429,OP000429,Rappeler mémoire occasion.,2025-12-12,2025-12-12,924,DEBIT,versement,valide,19
+430,OP000430,Écouter compte.,2025-12-14,2025-12-14,806,DEBIT,versement,en attente,19
+431,OP000431,Considérer compagnon.,2025-12-17,2025-12-17,141,CREDIT,retrait,en attente,19
+432,OP000432,Carte appartenir douter.,2025-11-30,2025-11-30,1353,CREDIT,virement,en attente,19
+433,OP000433,Certain nerveux.,2025-12-05,2025-12-05,31,DEBIT,virement,valide,19
+434,OP000434,Accepter installer.,2025-11-03,2025-11-03,1066,DEBIT,versement,valide,19
+435,OP000435,Appartement tour.,2025-11-14,2025-11-14,187,CREDIT,versement,valide,19
+436,OP000436,Arrêter toute où peuple.,2025-11-03,2025-11-03,41,DEBIT,versement,en attente,19
+437,OP000437,Résister mer autre.,2025-11-08,2025-11-08,1982,CREDIT,retrait,valide,19
+438,OP000438,Maître vaincre madame.,2025-11-11,2025-11-11,368,CREDIT,retrait,valide,19
+439,OP000439,Cinquante meilleur français.,2025-10-11,2025-10-11,1804,CREDIT,virement,en attente,19
+440,OP000440,Danser croire erreur.,2025-09-25,2025-09-25,949,CREDIT,retrait,valide,19
+441,OP000441,École tuer ouvert.,2025-10-07,2025-10-07,1307,DEBIT,retrait,valide,19
+442,OP000442,Vrai saisir visible.,2025-09-27,2025-09-27,1714,CREDIT,retrait,valide,19
+443,OP000443,Clair.,2025-10-02,2025-10-02,1917,DEBIT,retrait,valide,19
+444,OP000444,Hiver tandis que oreille.,2025-08-29,2025-08-29,1915,DEBIT,retrait,valide,19
+445,OP000445,Dernier appartement sous figure.,2025-09-12,2025-09-12,425,DEBIT,virement,valide,19
+446,OP000446,Fine matin.,2025-08-29,2025-08-29,1967,CREDIT,virement,en attente,19
+447,OP000447,Air l'un.,2025-09-08,2025-09-08,1281,CREDIT,retrait,en attente,19
+448,OP000448,Lourd loi journal.,2025-09-14,2025-09-14,1575,CREDIT,versement,en attente,19
+449,OP000449,Surprendre contre.,2025-08-02,2025-08-02,76,CREDIT,virement,en attente,19
+450,OP000450,Baisser billet vide.,2025-08-09,2025-08-09,-1421,DEBIT,retrait,en attente,19
+451,OP000451,Marché parcourir cri.,2025-07-31,2025-07-31,1775,CREDIT,versement,en attente,19
+452,OP000452,Religion soin gouvernement bouche.,2025-08-08,2025-08-08,386,CREDIT,retrait,en attente,19
+453,OP000453,Santé souffler que.,2025-07-05,2025-07-05,378,DEBIT,versement,en attente,19
+454,OP000454,Paysage travailler qui.,2025-06-24,2025-06-24,492,CREDIT,versement,valide,19
+455,OP000455,Aimer principe.,2025-07-04,2025-07-04,1660,DEBIT,versement,en attente,19
+456,OP000456,Ce.,2025-06-24,2025-06-24,1006,CREDIT,virement,valide,19
+457,OP000457,Article rester.,2025-12-13,2025-12-13,1676,CREDIT,retrait,en attente,20
+458,OP000458,Auteur sac tempête.,2025-12-08,2025-12-08,747,CREDIT,versement,valide,20
+459,OP000459,Fixer parler habiller.,2025-12-01,2025-12-01,1189,DEBIT,versement,en attente,20
+460,OP000460,Même.,2025-11-05,2025-11-05,1831,DEBIT,virement,valide,20
+461,OP000461,Marcher passer.,2025-10-30,2025-10-30,1664,CREDIT,virement,valide,20
+462,OP000462,Attitude queue après sérieux.,2025-11-14,2025-11-14,713,DEBIT,versement,en attente,20
+463,OP000463,Toujours briller reprendre.,2025-11-11,2025-11-11,1827,CREDIT,versement,en attente,20
+464,OP000464,Oeuvre drame.,2025-11-06,2025-11-06,352,DEBIT,retrait,valide,20
+465,OP000465,Figure sac amuser.,2025-10-14,2025-10-14,823,DEBIT,virement,valide,20
+466,OP000466,Marché chaise.,2025-09-25,2025-09-25,823,DEBIT,retrait,en attente,20
+467,OP000467,Retirer serrer écraser.,2025-10-12,2025-10-12,516,CREDIT,virement,valide,20
+468,OP000468,Effort souvenir.,2025-08-29,2025-08-29,740,CREDIT,retrait,en attente,20
+469,OP000469,Vaincre achever songer.,2025-09-15,2025-09-15,1995,DEBIT,versement,en attente,20
+470,OP000470,Ce accent.,2025-09-03,2025-09-03,1320,CREDIT,virement,en attente,20
+471,OP000471,Fonder menacer bas creuser.,2026-01-05,2026-01-05,854,CREDIT,virement,en attente,20
+472,OP000472,Crier tantôt seuil.,2025-08-10,2025-08-10,970,DEBIT,retrait,valide,20
+473,OP000473,Claire dans.,2025-07-26,2025-07-26,891,CREDIT,virement,en attente,20
+474,OP000474,Corde confiance.,2025-08-02,2025-08-02,905,CREDIT,retrait,valide,20
+475,OP000475,Seul seuil toute.,2025-07-17,2025-07-17,874,DEBIT,versement,en attente,20
+476,OP000476,Impossible mentir écarter.,2025-07-10,2025-07-10,1338,CREDIT,retrait,valide,20
+477,OP000477,Dessiner cou.,2025-06-29,2025-06-29,942,CREDIT,virement,valide,20
+478,OP000478,Journée époque cependant permettre.,2025-07-18,2025-07-18,1995,DEBIT,versement,en attente,20
+479,OP000479,Droite auteur.,2025-12-19,2025-12-19,486,DEBIT,retrait,en attente,21
+480,OP000480,Ennemi huit.,2025-12-08,2025-12-08,959,DEBIT,virement,en attente,21
+481,OP000481,Petit pourquoi chez mon.,2025-11-25,2025-11-25,813,DEBIT,retrait,en attente,21
+482,OP000482,Valoir comme enfance.,2025-11-23,2025-11-23,35,DEBIT,retrait,valide,21
+483,OP000483,Prêter passé.,2025-11-26,2025-11-26,78,DEBIT,virement,en attente,21
+484,OP000484,Seigneur chacun.,2025-10-29,2025-10-29,1978,CREDIT,versement,valide,21
+485,OP000485,Soudain inconnu exister.,2025-11-11,2025-11-11,995,CREDIT,virement,valide,21
+486,OP000486,Journal brusquement.,2025-11-12,2025-11-12,1306,CREDIT,virement,en attente,21
+487,OP000487,Avouer douze salut suffire.,2025-10-25,2025-10-25,507,DEBIT,versement,valide,21
+488,OP000488,Direction soutenir.,2025-09-25,2025-09-25,193,DEBIT,versement,valide,21
+489,OP000489,Propos suite.,2025-10-18,2025-10-18,738,DEBIT,virement,en attente,21
+490,OP000490,Parole rôle naître.,2025-10-02,2025-10-02,1624,CREDIT,versement,en attente,21
+491,OP000491,Croire année digne sujet.,2025-10-08,2025-10-08,1493,DEBIT,versement,en attente,21
+492,OP000492,Interroger remettre faible.,2025-08-28,2025-08-28,1013,DEBIT,retrait,en attente,21
+493,OP000493,Suffire nom.,2025-08-23,2025-08-23,1712,DEBIT,retrait,en attente,21
+494,OP000494,Cesser liberté.,2025-09-05,2025-09-05,11,CREDIT,retrait,valide,21
+495,OP000495,Forme lien.,2025-09-09,2025-09-09,1486,DEBIT,versement,en attente,21
+496,OP000496,Sept rideau.,2025-08-26,2025-08-26,1139,DEBIT,virement,valide,21
+497,OP000497,Politique rassurer changer cinquante.,2025-07-29,2025-07-29,146,DEBIT,virement,valide,21
+498,OP000498,Trouver petit verser.,2025-08-04,2025-08-04,402,DEBIT,retrait,en attente,21
+499,OP000499,Travailler appartenir recommencer.,2025-08-18,2025-08-18,760,DEBIT,virement,en attente,21
+500,OP000500,Attirer famille.,2025-07-24,2025-07-24,173,CREDIT,retrait,en attente,21
+501,OP000501,Traiter.,2025-07-25,2025-07-25,1460,DEBIT,virement,en attente,21
+502,OP000502,Lune respecter.,2025-07-13,2025-07-13,1977,DEBIT,virement,valide,21
+503,OP000503,Intéresser il après.,2025-07-01,2025-07-01,1290,DEBIT,versement,en attente,21
+504,OP000504,Bord vert parti.,2025-06-28,2025-06-28,949,CREDIT,retrait,en attente,21
+505,OP000505,Se direction.,2025-12-14,2025-12-14,1103,CREDIT,retrait,en attente,22
+506,OP000506,Montrer ferme feu.,2025-12-06,2025-12-06,1575,CREDIT,versement,valide,22
+507,OP000507,Perdre sec l'un ferme.,2025-12-07,2025-12-07,1578,CREDIT,virement,valide,22
+508,OP000508,Lumière étude.,2025-12-10,2025-12-10,1230,DEBIT,retrait,valide,22
+509,OP000509,Journal jeunesse occuper.,2025-12-13,2025-12-13,-1762,CREDIT,retrait,valide,22
+510,OP000510,Soumettre haute défaut.,2025-11-18,2025-11-18,952,CREDIT,virement,valide,22
+511,OP000511,Paupière crier considérer.,2025-11-11,2025-11-11,1671,CREDIT,versement,valide,22
+512,OP000512,Observer rouge peu.,2025-10-27,2025-10-27,674,CREDIT,versement,valide,22
+513,OP000513,Roche prochain jeune.,2025-09-29,2025-09-29,625,DEBIT,virement,en attente,22
+514,OP000514,Jeter nombreux paysan.,2025-10-08,2025-10-08,1811,CREDIT,virement,valide,22
+515,OP000515,Aile apprendre mourir.,2025-09-29,2025-09-29,1602,CREDIT,versement,valide,22
+516,OP000516,Chacun lorsque.,2025-10-09,2025-10-09,1038,DEBIT,retrait,valide,22
+517,OP000517,Chaud combat toile.,2025-10-12,2025-10-12,894,CREDIT,retrait,valide,22
+518,OP000518,Valeur nul moindre.,2025-09-07,2025-09-07,547,DEBIT,virement,en attente,22
+519,OP000519,Toucher.,2025-09-02,2025-09-02,415,CREDIT,versement,valide,22
+520,OP000520,Trop curieux.,2025-09-12,2025-09-12,156,CREDIT,virement,valide,22
+521,OP000521,Volonté soit commencer sauter.,2025-08-29,2025-08-29,857,CREDIT,versement,valide,22
+522,OP000522,Chaque ne regard papier.,2025-08-26,2025-08-26,634,DEBIT,retrait,valide,22
+523,OP000523,Discours profondément etc.,2025-08-18,2025-08-18,1902,DEBIT,virement,valide,22
+524,OP000524,Nouveau aussitôt fête.,2025-07-27,2025-07-27,121,DEBIT,retrait,valide,22
+525,OP000525,Brûler cour.,2025-08-09,2025-08-09,1430,DEBIT,versement,valide,22
+526,OP000526,Politique salut oeil.,2025-08-13,2025-08-13,1129,CREDIT,versement,valide,22
+527,OP000527,Jamais oser.,2025-07-01,2025-07-01,1865,DEBIT,versement,en attente,22
+528,OP000528,Quelqu'Un.,2025-07-18,2025-07-18,962,DEBIT,versement,en attente,22
+529,OP000529,Ramener bête petit.,2025-06-22,2025-06-22,230,DEBIT,retrait,valide,22
+530,OP000530,Matière abandonner tranquille poésie.,2025-07-09,2025-07-09,1002,DEBIT,versement,valide,22
+531,OP000531,Main fatigue apprendre.,2025-12-12,2025-12-12,1898,CREDIT,retrait,en attente,23
+532,OP000532,Grave transformer jeunesse.,2025-12-08,2025-12-08,1290,CREDIT,virement,en attente,23
+533,OP000533,Être revoir te.,2025-12-07,2025-12-07,1833,DEBIT,retrait,en attente,23
+534,OP000534,Blanc cesser jardin.,2025-11-15,2025-11-15,189,CREDIT,versement,valide,23
+535,OP000535,Témoin bande.,2025-11-06,2025-11-06,502,DEBIT,retrait,valide,23
+536,OP000536,Sortir front contenir président.,2025-11-13,2025-11-13,1346,DEBIT,virement,en attente,23
+537,OP000537,Risquer.,2025-10-28,2025-10-28,1454,DEBIT,versement,valide,23
+538,OP000538,Caractère accomplir perdu.,2025-11-09,2025-11-09,148,DEBIT,virement,en attente,23
+539,OP000539,Front briller grâce.,2025-10-06,2025-10-06,631,CREDIT,versement,en attente,23
+540,OP000540,Détruire siècle goutte faible.,2025-10-15,2025-10-15,1605,DEBIT,versement,en attente,23
+541,OP000541,Voler former.,2025-09-30,2025-09-30,1171,DEBIT,virement,en attente,23
+542,OP000542,Garçon répéter.,2025-10-15,2025-10-15,1038,CREDIT,retrait,en attente,23
+543,OP000543,Conclure mine joli.,2025-09-14,2025-09-14,405,UNKNOWN,retrait,en attente,23
+544,OP000544,Musique remarquer.,2025-09-12,2025-09-12,1530,DEBIT,retrait,en attente,23
+545,OP000545,Pur siège peser.,2025-08-28,2025-08-28,675,CREDIT,versement,en attente,23
+546,OP000546,Homme précieux.,2025-08-09,2025-08-09,817,DEBIT,virement,valide,23
+547,OP000547,Bois loi.,2025-08-03,2025-08-03,1111,CREDIT,versement,valide,23
+548,OP000548,Réussir oreille politique.,2025-08-13,2025-08-13,606,CREDIT,retrait,valide,23
+549,OP000549,Debout.,2025-08-06,2025-08-06,612,DEBIT,versement,en attente,23
+550,OP000550,Vérité accent beauté.,2025-08-17,2025-08-17,1489,DEBIT,versement,valide,23
+551,OP000551,Intérieur obéir.,2025-07-06,2025-07-06,-672,CREDIT,virement,en attente,23
+552,OP000552,Au d'autres.,2025-07-17,2025-07-17,522,CREDIT,versement,valide,23
+553,OP000553,Oiseau projet.,2025-07-17,2025-07-17,243,CREDIT,versement,valide,23
+554,OP000554,Oreille madame prétendre.,2025-07-07,2025-07-07,1137,CREDIT,versement,valide,23
+555,OP000555,Assister remarquer complètement le.,2025-11-22,2025-11-22,306,DEBIT,versement,en attente,24
+556,OP000556,Droit.,2025-12-10,2025-12-10,1292,DEBIT,versement,en attente,24
+557,OP000557,Du anglais nul.,2025-12-19,2025-12-19,949,UNKNOWN,retrait,valide,24
+558,OP000558,Précéder ou pleurer.,2025-11-01,2025-11-01,1360,CREDIT,virement,valide,24
+559,OP000559,Dent à ciel.,2025-11-02,2025-11-02,579,DEBIT,virement,valide,24
+560,OP000560,Rendre étudier.,2025-10-23,2025-10-23,76,CREDIT,virement,valide,24
+561,OP000561,François couleur affirmer.,2025-10-10,2025-10-10,1261,DEBIT,virement,valide,24
+562,OP000562,Tête mentir.,2025-09-25,2025-09-25,622,CREDIT,retrait,valide,24
+563,OP000563,Terme étouffer ventre.,2025-10-10,2025-10-10,974,DEBIT,retrait,valide,24
+564,OP000564,Début vent.,2025-09-27,2025-09-27,438,DEBIT,virement,en attente,24
+565,OP000565,Tout moyen digne.,2025-09-26,2025-09-26,1420,CREDIT,versement,en attente,24
+566,OP000566,Lit mince lier.,2025-08-31,2025-08-31,1162,CREDIT,virement,valide,24
+567,OP000567,Trop révéler vague.,2025-08-28,2025-08-28,-604,DEBIT,virement,valide,24
+568,OP000568,Rôle moyen pourquoi.,2025-08-25,2025-08-25,1270,CREDIT,versement,valide,24
+569,OP000569,Moindre regretter rassurer.,2025-07-30,2025-07-30,422,CREDIT,versement,en attente,24
+570,OP000570,Point supposer six.,2025-07-26,2025-07-26,22,DEBIT,versement,valide,24
+571,OP000571,Campagne auquel parti.,2025-07-24,2025-07-24,369,DEBIT,retrait,valide,24
+572,OP000572,Plusieurs défaut.,2025-07-15,2025-07-15,996,DEBIT,retrait,en attente,24
+573,OP000573,Fusil étudier mari.,2025-06-24,2025-06-24,1677,CREDIT,versement,en attente,24
+574,OP000574,Désigner besoin.,2025-07-02,2025-07-02,1107,DEBIT,retrait,valide,24
+575,OP000575,Avant tout jambe.,2025-07-15,2025-07-15,584,DEBIT,virement,en attente,24
+576,OP000576,Dame mourir confondre.,2025-07-14,2025-07-14,1228,DEBIT,retrait,valide,24
+577,OP000577,Leur couler.,2025-12-06,2025-12-06,187,CREDIT,retrait,valide,25
+578,OP000578,Sommet coûter.,2025-12-03,2025-12-03,629,DEBIT,virement,en attente,25
+579,OP000579,Se second.,2025-12-03,2025-12-03,61,CREDIT,retrait,en attente,25
+580,OP000580,Chute briller tirer.,2025-11-25,2025-11-25,680,DEBIT,versement,valide,25
+581,OP000581,Oreille réduire me.,2025-10-27,2025-10-27,84,CREDIT,retrait,valide,25
+582,OP000582,Pluie.,2025-10-29,2025-10-29,1746,DEBIT,versement,en attente,25
+583,OP000583,Pain large voici.,2025-11-19,2025-11-19,1192,CREDIT,retrait,en attente,25
+584,OP000584,Soleil justice vivre.,2025-10-09,2025-10-09,1592,CREDIT,virement,valide,25
+585,OP000585,Doux d'autres mur.,2025-09-30,2025-09-30,1156,DEBIT,virement,en attente,25
+586,OP000586,Qualité.,2025-10-01,2025-10-01,511,DEBIT,retrait,valide,25
+587,OP000587,Je mauvais lien.,2025-10-15,2025-10-15,69,CREDIT,virement,en attente,25
+588,OP000588,Simple remonter immense.,2025-10-07,2025-10-07,376,CREDIT,versement,valide,25
+589,OP000589,Pouvoir importer.,2025-09-01,2025-09-01,279,DEBIT,retrait,en attente,25
+590,OP000590,Âgé.,2025-08-29,2025-08-29,1329,CREDIT,versement,en attente,25
+591,OP000591,Feuille bon.,2025-09-08,2025-09-08,812,DEBIT,retrait,en attente,25
+592,OP000592,Or différent mener.,2025-09-04,2025-09-04,71,DEBIT,virement,en attente,25
+593,OP000593,Divers valoir.,2025-07-31,2025-07-31,1186,DEBIT,virement,en attente,25
+594,OP000594,Faible leur creuser.,2025-08-02,2025-08-02,1340,DEBIT,retrait,valide,25
+595,OP000595,Façon fou huit.,2025-07-31,2025-07-31,509,DEBIT,versement,en attente,25
+596,OP000596,Certainement moyen découvrir.,2025-07-25,2025-07-25,901,CREDIT,virement,en attente,25
+597,OP000597,Prochain rêver.,2025-07-01,2025-07-01,1230,CREDIT,retrait,en attente,25
+598,OP000598,Guère fier chat.,2025-07-17,2025-07-17,1235,DEBIT,retrait,en attente,25
+599,OP000599,Interrompre accuser.,2025-06-29,2025-06-29,1362,DEBIT,versement,valide,25
+600,OP000600,Lever voyage serrer.,2025-11-28,2025-11-28,315,CREDIT,virement,valide,26
+601,OP000601,Marche enfoncer journal.,2025-11-28,2025-11-28,1806,CREDIT,retrait,en attente,26
+602,OP000602,Mode monsieur.,2025-12-17,2025-12-17,1203,DEBIT,retrait,valide,26
+603,OP000603,Blond coeur cuisine.,2025-11-02,2025-11-02,-1992,DEBIT,virement,en attente,26
+604,OP000604,Jambe parfois.,2025-10-23,2025-10-23,73,DEBIT,versement,en attente,26
+605,OP000605,Quelqu'Un différent expliquer.,2025-11-07,2025-11-07,791,CREDIT,virement,en attente,26
+606,OP000606,Tout devoir agiter.,2025-10-24,2025-10-24,1903,CREDIT,versement,valide,26
+607,OP000607,Être poète.,2025-10-19,2025-10-19,156,DEBIT,virement,valide,26
+608,OP000608,Coucher moyen pencher complet.,2025-10-15,2025-10-15,1325,CREDIT,retrait,valide,26
+609,OP000609,Examiner plein.,2025-10-05,2025-10-05,1053,CREDIT,virement,en attente,26
+610,OP000610,Remercier honneur avec.,2025-09-19,2025-09-19,1193,CREDIT,retrait,en attente,26
+611,OP000611,Du parole chasse combien.,2025-09-18,2025-09-18,87,CREDIT,versement,valide,26
+612,OP000612,Glisser or franchir.,2025-09-15,2025-09-15,1505,CREDIT,virement,valide,26
+613,OP000613,Avenir éteindre.,2025-09-04,2025-09-04,1301,DEBIT,versement,valide,26
+614,OP000614,Enlever échapper distance.,2025-09-09,2025-09-09,1105,DEBIT,versement,en attente,26
+615,OP000615,Doigt histoire social.,2025-08-08,2025-08-08,1977,CREDIT,versement,en attente,26
+616,OP000616,Quitter madame huit.,2025-07-27,2025-07-27,1617,CREDIT,virement,en attente,26
+617,OP000617,Connaissance ailleurs.,2025-07-25,2025-07-25,1520,DEBIT,retrait,en attente,26
+618,OP000618,Peuple travers.,2025-08-15,2025-08-15,1271,CREDIT,versement,valide,26
+619,OP000619,Creuser forme.,2025-06-26,2025-06-26,319,CREDIT,virement,en attente,26
+620,OP000620,Au souffler.,2025-07-14,2025-07-14,1647,DEBIT,virement,en attente,26
+621,OP000621,Art rejoindre mais.,2025-06-25,2025-06-25,855,CREDIT,virement,en attente,26
+622,OP000622,Bouche ouvert.,2025-07-18,2025-07-18,1325,CREDIT,retrait,en attente,26
+623,OP000623,Père sous.,2025-07-10,2025-07-10,985,DEBIT,virement,en attente,26
+624,OP000624,Décrire quant à.,2025-12-10,2025-12-10,1908,CREDIT,virement,valide,27
+625,OP000625,Parce Que certainement secret.,2025-12-02,2025-12-02,1315,CREDIT,retrait,en attente,27
+626,OP000626,Armée.,2025-12-11,2025-12-11,556,DEBIT,versement,valide,27
+627,OP000627,Simple entrer jambe.,2025-10-29,2025-10-29,1215,DEBIT,retrait,valide,27
+628,OP000628,Train mener chaîne.,2025-10-29,2025-10-29,-27,DEBIT,retrait,en attente,27
+629,OP000629,Comprendre nu parmi.,2025-11-12,2025-11-12,1495,CREDIT,virement,valide,27
+630,OP000630,Habiter passé marche.,2025-10-31,2025-10-31,1316,DEBIT,virement,en attente,27
+631,OP000631,Jeunesse décider beau.,2025-10-29,2025-10-29,1574,DEBIT,retrait,valide,27
+632,OP000632,Faible différent.,2025-10-05,2025-10-05,1899,CREDIT,retrait,en attente,27
+633,OP000633,Acheter maintenir.,2025-10-14,2025-10-14,1608,DEBIT,virement,en attente,27
+634,OP000634,Éteindre intention.,2025-09-23,2025-09-23,552,DEBIT,versement,en attente,27
+635,OP000635,Ventre.,2025-10-14,2025-10-14,1331,CREDIT,versement,valide,27
+636,OP000636,Trop jardin accrocher.,2025-10-05,2025-10-05,1475,CREDIT,retrait,en attente,27
+637,OP000637,Retour nouveau retirer.,2025-09-04,2025-09-04,314,DEBIT,versement,en attente,27
+638,OP000638,Faveur fumer minute.,2025-09-07,2025-09-07,1186,DEBIT,retrait,en attente,27
+639,OP000639,Désormais prier pays.,2026-01-11,2026-01-11,1500,DEBIT,retrait,valide,27
+640,OP000640,Dans avenir paraître.,2025-08-02,2025-08-02,1924,CREDIT,versement,valide,27
+641,OP000641,Réduire témoin rien.,2025-08-08,2025-08-08,1104,CREDIT,versement,valide,27
+642,OP000642,Droite quelque.,2025-08-14,2025-08-14,1145,DEBIT,retrait,valide,27
+643,OP000643,Gagner si.,2025-07-30,2025-07-30,1420,CREDIT,virement,valide,27
+644,OP000644,Chaise but.,2025-08-18,2025-08-18,405,DEBIT,virement,en attente,27
+645,OP000645,Ouvert dominer papa.,2025-12-30,2025-12-30,1986,CREDIT,versement,valide,27
+646,OP000646,Ensuite chez.,2025-07-07,2025-07-07,252,DEBIT,versement,valide,27
+647,OP000647,Aile vie dresser.,2025-06-26,2025-06-26,1196,DEBIT,versement,valide,27
+648,OP000648,Prier propos.,2025-07-04,2025-07-04,1867,UNKNOWN,versement,valide,27
+649,OP000649,Beau affaire.,2025-11-23,2025-11-23,1635,DEBIT,virement,valide,28
+650,OP000650,État endroit.,2025-12-04,2025-12-04,1228,DEBIT,versement,en attente,28
+651,OP000651,Vue indiquer respecter.,2025-12-09,2025-12-09,257,DEBIT,virement,valide,28
+652,OP000652,Avis raison chat.,2025-12-09,2025-12-09,139,DEBIT,retrait,valide,28
+653,OP000653,Remonter autour.,2025-11-12,2025-11-12,1905,DEBIT,retrait,valide,28
+654,OP000654,Confiance supporter désormais.,2026-01-18,2026-01-18,1811,CREDIT,versement,en attente,28
+655,OP000655,Sans causer regarder.,2025-11-06,2025-11-06,1430,CREDIT,versement,en attente,28
+656,OP000656,Fin vieux.,2025-11-06,2025-11-06,499,DEBIT,retrait,valide,28
+657,OP000657,Quant À anglais.,2025-12-27,2025-12-27,1612,CREDIT,versement,valide,28
+658,OP000658,Pur bien pitié.,2025-09-30,2025-09-30,751,DEBIT,virement,valide,28
+659,OP000659,Interrompre point.,2025-10-16,2025-10-16,1641,DEBIT,virement,valide,28
+660,OP000660,Trait cinq.,2025-09-28,2025-09-28,1899,DEBIT,retrait,en attente,28
+661,OP000661,Regretter.,2025-09-30,2025-09-30,1658,CREDIT,virement,valide,28
+662,OP000662,Causer jeune égal.,2025-09-04,2025-09-04,1064,DEBIT,versement,en attente,28
+663,OP000663,Souvenir société d'abord.,2025-09-06,2025-09-06,417,CREDIT,virement,en attente,28
+664,OP000664,Demain habitant.,2025-08-23,2025-08-23,419,CREDIT,virement,en attente,28
+665,OP000665,Delà.,2025-08-13,2025-08-13,1910,CREDIT,virement,en attente,28
+666,OP000666,Neuf forcer.,2025-08-11,2025-08-11,424,CREDIT,virement,valide,28
+667,OP000667,Accrocher appeler.,2025-07-23,2025-07-23,963,CREDIT,retrait,valide,28
+668,OP000668,Portier choix rejeter.,2025-06-30,2025-06-30,1864,DEBIT,retrait,en attente,28
+669,OP000669,Ciel beauté.,2025-06-22,2025-06-22,453,CREDIT,versement,valide,28
+670,OP000670,Est vêtir recevoir attaquer.,2025-07-12,2025-07-12,680,CREDIT,virement,valide,28
+671,OP000671,Pauvre préférer respecter.,2025-07-06,2025-07-06,100,DEBIT,retrait,en attente,28
+672,OP000672,Juge enlever.,2025-07-04,2025-07-04,1668,DEBIT,virement,en attente,28
+673,OP000673,Réserver rare révolution.,2025-12-15,2025-12-15,744,UNKNOWN,versement,en attente,29
+674,OP000674,Puis aider fête.,2025-12-14,2025-12-14,1450,CREDIT,retrait,en attente,29
+675,OP000675,Dessiner apparence.,2025-11-25,2025-11-25,293,CREDIT,versement,valide,29
+676,OP000676,Mine meilleur juste.,2025-11-17,2025-11-17,798,CREDIT,versement,valide,29
+677,OP000677,Consentir étouffer puis.,2025-10-25,2025-10-25,1412,DEBIT,versement,en attente,29
+678,OP000678,Sol nuit.,2025-11-18,2025-11-18,237,CREDIT,virement,valide,29
+679,OP000679,Clair manier hors.,2025-11-02,2025-11-02,1462,DEBIT,versement,en attente,29
+680,OP000680,Me ignorer.,2025-10-27,2025-10-27,1933,DEBIT,retrait,en attente,29
+681,OP000681,Feuille conseil agir.,2025-10-18,2025-10-18,139,CREDIT,virement,en attente,29
+682,OP000682,Remonter dent produire.,2025-09-27,2025-09-27,1099,CREDIT,versement,valide,29
+683,OP000683,Route content poitrine.,2025-10-13,2025-10-13,1836,CREDIT,virement,valide,29
+684,OP000684,Choisir droit fuir.,2025-10-14,2025-10-14,575,DEBIT,versement,valide,29
+685,OP000685,But maintenant auprès.,2025-09-06,2025-09-06,1995,DEBIT,virement,en attente,29
+686,OP000686,Conclure amuser.,2025-09-13,2025-09-13,138,DEBIT,versement,en attente,29
+687,OP000687,Jouer blond.,2025-09-06,2025-09-06,1195,CREDIT,versement,en attente,29
+688,OP000688,Passion flamme juste.,2025-09-05,2025-09-05,632,DEBIT,virement,en attente,29
+689,OP000689,Préférer devenir faim oeil.,2025-08-10,2025-08-10,1586,DEBIT,versement,valide,29
+690,OP000690,Admettre titre.,2025-07-28,2025-07-28,1106,CREDIT,versement,valide,29
+691,OP000691,Tour savoir intelligence.,2025-08-14,2025-08-14,497,DEBIT,retrait,en attente,29
+692,OP000692,Exposer quelque.,2025-08-14,2025-08-14,430,DEBIT,retrait,valide,29
+693,OP000693,Sac rester assurer.,2025-07-10,2025-07-10,258,DEBIT,retrait,en attente,29
+694,OP000694,Discuter appartenir auteur emmener.,2025-07-15,2025-07-15,18,CREDIT,versement,valide,29
+695,OP000695,Veiller blanc.,2025-06-24,2025-06-24,1167,CREDIT,virement,valide,29
+696,OP000696,Manquer contenir.,2025-06-28,2025-06-28,1138,DEBIT,retrait,en attente,29
+697,OP000697,Personne montrer trou.,2025-07-17,2025-07-17,678,DEBIT,retrait,valide,29
+698,OP000698,Race garder bras.,2025-12-17,2025-12-17,1112,CREDIT,retrait,valide,30
+699,OP000699,Existence importance pierre.,2025-12-04,2025-12-04,660,DEBIT,retrait,en attente,30
+700,OP000700,Combat condition.,2025-12-07,2025-12-07,773,DEBIT,versement,valide,30
+701,OP000701,Ligne personne marche.,2025-10-27,2025-10-27,1828,CREDIT,virement,en attente,30
+702,OP000702,Heure étude enfin vol.,2025-10-27,2025-10-27,1845,CREDIT,virement,en attente,30
+703,OP000703,Sentier fusil partager.,2025-11-04,2025-11-04,1786,CREDIT,virement,valide,30
+704,OP000704,Oh moindre croiser.,2025-09-29,2025-09-29,1882,CREDIT,virement,valide,30
+705,OP000705,Tôt deux vendre.,2025-10-14,2025-10-14,1714,CREDIT,retrait,en attente,30
+706,OP000706,Veille à angoisse.,2025-10-04,2025-10-04,1155,CREDIT,retrait,en attente,30
+707,OP000707,Nouveau l'une.,2025-10-16,2025-10-16,1349,CREDIT,virement,valide,30
+708,OP000708,Accompagner vivre.,2025-08-26,2025-08-26,577,CREDIT,versement,en attente,30
+709,OP000709,Sien aider.,2025-09-01,2025-09-01,903,CREDIT,virement,en attente,30
+710,OP000710,Tête longtemps.,2025-09-03,2025-09-03,1511,DEBIT,retrait,en attente,30
+711,OP000711,Ton choix apercevoir.,2025-08-15,2025-08-15,741,DEBIT,retrait,valide,30
+712,OP000712,Chute discussion subir.,2025-08-10,2025-08-10,607,DEBIT,virement,valide,30
+713,OP000713,Dehors roche.,2025-08-02,2025-08-02,670,CREDIT,versement,en attente,30
+714,OP000714,Morceau montagne.,2026-01-05,2026-01-05,1104,CREDIT,retrait,en attente,30
+715,OP000715,Puissance profond.,2025-08-09,2025-08-09,1896,DEBIT,virement,valide,30
+716,OP000716,Commun saluer position.,2025-07-05,2025-07-05,1886,UNKNOWN,retrait,en attente,30
+717,OP000717,Rue bientôt passion.,2025-06-27,2025-06-27,752,DEBIT,retrait,valide,30
+718,OP000718,Rien.,2025-06-27,2025-06-27,633,DEBIT,versement,valide,30
+719,OP000719,Avec aspect rejoindre.,2025-06-27,2025-06-27,474,CREDIT,versement,valide,30

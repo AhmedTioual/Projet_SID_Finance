@@ -1,0 +1,21 @@
+id_client,numero_client,nom,prenom,sexe,date_naissance,email,telephone,adresse,ville,code_postal,date_creation_client,statut_client,id_foyer,id_conseiller
+1,C0001,Dias,Eugène,M,1952-11-24,morinodette@example.org,+33 5 54 77 36 02,"7, avenue Sébastien Briand",Peltierdan,20294,2022-06-13,actif,6,1
+2,C0002,Boyer,Inès,M,1992-08-20,letellierthomas@example.org,+33 (0)6 88 82 08 12,rue de Parent,Antoine,16683,2022-03-12,inactif,10,6
+3,C0003,Valentin,Augustin,M,1985-11-20,ldescamps@example.net,0390353462,"67, rue Albert",Thibault-sur-Roussel,10650,2022-01-11,inactif,5,3
+4,C0004,Aubry,Gilles,M,2004-02-04,moulinalexandrie@example.com,0000,"3, rue Franck Bernier",Meyer-la-Forêt,36719,2022-01-06,inactif,6,4
+5,C0005,Le Goff,Lucas,M,1989-11-02,corinne74@example.org,+33 (0)5 63 40 05 24,"78, rue de Marie",Saint ÉmilieVille,47696,2023-09-23,inactif,3,7
+6,C0006,Perret,Gilbert,M,1952-05-23,stephanie05@example.org,+33 2 41 58 69 23,"16, chemin Bouchet",Da Costa,20906,2024-06-21,inactif,9,1
+7,C0007,Weber,Auguste,M,1999-10-06,lucjacques@example.com,0370303654,chemin Lucy Grégoire,Potierboeuf,04218,2025-05-08,inactif,3,8
+8,C0008,Bertin,Joseph,M,1983-08-22,auguste19@example.com,0469698169,"70, boulevard Tanguy",Marchal,55171,2025-09-16,actif,2,5
+9,C0009,Rémy,Laurence,F,1968-03-03,,0555564823,"52, boulevard Victoire Martin",Renault,26540,2024-11-22,inactif,9,1
+10,C0010,Seguin,Marcelle,M,1968-08-27,rpichon@example.org,03 22 14 89 51,"43, rue Lambert",Ollivier,78970,2024-10-22,actif,5,4
+11,C0011,Pineau,Arnaude,M,2001-05-11,michellegrenier@example.com,05 46 32 01 63,"970, rue Pineau",Barthelemy,85643,2025-11-26,actif,8,2
+12,C0012,Valentin,Timothée,M,2005-01-24,uraymond@example.net,06 02 77 43 48,"84, chemin Huet",Daniel,40653,2021-05-14,actif,9,7
+13,C0013,Fernandes!,Nicolas,F,1972-03-07,marysebenoit@example.org,05 54 58 76 03,"19, avenue de Martel",Sainte Théophile,97159,2025-03-26,actif,6,8
+14,C0014,Humbert,Élise,M,1993-04-27,clairevasseur@example.com,07 30 65 62 72,"106, avenue Dufour",VidalVille,33488,2022-08-08,actif,9,4
+15,C0015,De Sousa,Victor,M,1969-07-16,wlopes@example.com,0229708053,"1, rue Bourgeois",Saint Olivier,17584,2024-04-24,actif,1,6
+16,C0016,Thibault,Martin,M,1976-12-08,pauline52@example.net,+33 (0)3 10 41 90 49,"46, boulevard Blot",Henry,89891,2022-06-21,inactif,10,8
+17,C0017,Pottier,Joséphine,F,1996-09-07,perrotelisabeth@example.com,0218850671,"37, rue Nath Barbe",Chauvet,68893,2023-05-20,inactif,7,6
+18,C0018,Nguyen,Valérie,F,1992-05-13,tristan31@example.com,03 81 79 96 50,"82, chemin Poirier",Guyot,76818,2025-05-13,inactif,2,1
+19,C0019,Berthelot,Alain,M,1979-12-06,emileguillot@example.net,07 58 37 77 01,"46, boulevard Alexandrie Reynaud",Laporteboeuf,54863,2023-09-19,inactif,9,8
+20,C0020,Benard!,Martine,M,1976-04-13,philippe31@example.net,+33 4 70 18 23 37,"589, rue Collet",Alves,22409,2021-01-12,actif,2,8
