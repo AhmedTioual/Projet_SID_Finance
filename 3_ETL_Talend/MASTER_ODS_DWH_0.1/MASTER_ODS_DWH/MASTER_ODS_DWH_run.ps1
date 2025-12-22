@@ -1,0 +1,3 @@
+$fileDir = Split-Path -Parent $MyInvocation.MyCommand.Path
+cd $fileDir
+java '-Dtalend.component.manager.m2.repository=%cd%/../lib' '-Xms256M' '-Xmx1024M' -cp '.;../lib/routines.jar;../lib/log4j-slf4j-impl-2.13.2.jar;../lib/log4j-api-2.13.2.jar;../lib/log4j-core-2.13.2.jar;../lib/jboss-marshalling-2.0.12.Final.jar;../lib/dom4j-2.1.3.jar;../lib/slf4j-api-1.7.29.jar;../lib/talend_file_enhanced-1.1.jar;../lib/talendcsv-1.0.0.jar;../lib/crypto-utils-0.31.12.jar;master_ods_dwh_0_1.jar;ods_master_0_1.jar;dwh_master_0_1.jar;load_dim_foyer_0_1.jar;load_dim_client_0_1.jar;load_staging_foyers_0_1.jar;load_staging_clients_0_1.jar;load_staging_client_compte_0_1.jar;' projet_sid_finance.master_ods_dwh_0_1.MASTER_ODS_DWH --context=test $args

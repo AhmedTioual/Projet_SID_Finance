@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="_Apv80N3iEfCcrsXxs0g4LQ" confirmationNeeded="false" name="dev">
+    <contextParameter xmi:id="_Apv80d3iEfCcrsXxs0g4LQ" comment="" name="ROOT_PROJECT" prompt="ROOT_PROJECT?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;talend/TOS_DI-20211109_1610-V8.0.1/workspace/PROJET_SID_FINANCE&quot;"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_Apv80t3iEfCcrsXxs0g4LQ" confirmationNeeded="false" name="test">
+    <contextParameter xmi:id="_Apv8093iEfCcrsXxs0g4LQ" comment="" name="ROOT_PROJECT" prompt="ROOT_PROJECT?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;../../..&quot;"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_Apv81N3iEfCcrsXxs0g4LQ" confirmationNeeded="false" name="prod">
+    <contextParameter xmi:id="_Apv81d3iEfCcrsXxs0g4LQ" comment="" name="ROOT_PROJECT" prompt="ROOT_PROJECT?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  </talendfile:ContextType>
+</xmi:XMI>
